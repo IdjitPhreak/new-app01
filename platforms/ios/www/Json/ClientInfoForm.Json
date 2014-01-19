@@ -1,0 +1,22 @@
+[
+	{
+		"rowId": "",
+		"LegalBusinessName": "",
+		"ContactName": "",
+		"ContactTitle": "",
+		"ContactEmail": "",
+		"ContactPhone": "",
+		"HoursOperationOpenMF": "",
+		"HoursOperationCloseMF": "",
+		"HoursOperationOpenSat": "",
+		"HoursOperationCloseSat": "",
+		"HoursOperationOpenSun": "",
+		"HoursOperationCloseSun": "",
+		"FacilityType": "",
+		"EPACT": "",
+		"HVACFuelType": "",
+		"UtilityCompany": "",
+		"MeterNumber": "",
+		"AccountNumber": ""
+	}
+]
